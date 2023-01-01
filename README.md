@@ -8,10 +8,8 @@ Files: 276
 Scheduled tasks: 1
 DLL registration: 3
 Total size: 465.48 MB
-Install date: 1/2/2023 6:21:43 AM
 Install package: C:\Users\Windows 10\Downloads\MicrosoftEdgeSetup.exe
 Location: C:\Program Files (x86)\Microsoft\Edge\Application
-Installation duration: 61 seconds
 ```
 
 <br>
