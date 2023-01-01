@@ -1,4 +1,5 @@
 ## Program Information
+```
 Display name: Microsoft Edge
 Publisher: Microsoft Corporation
 Version: 108.0.1462.54
@@ -11,10 +12,12 @@ Install date: 1/2/2023 6:21:43 AM
 Install package: C:\Users\Windows 10\Downloads\MicrosoftEdgeSetup.exe
 Location: C:\Program Files (x86)\Microsoft\Edge\Application
 Installation duration: 61 seconds
+```
 
 <br>
 
 ## Registry Entries
+```
 HKEY_CURRENT_USER\SOFTWARE\Microsoft\Edge|Value|InstallerPinned
 HKEY_CURRENT_USER\SOFTWARE\Microsoft\EdgeUpdate\ClientState\{56EB18F8-B008-4CBD-B6D2-8C97FE7E9062}|Value|dr
 HKEY_CURRENT_USER\SOFTWARE\Microsoft\EdgeUpdate\proxy|Value|source
@@ -600,15 +603,20 @@ C:\Users\Windows 10\AppData\Local\Temp\a16acc4d-1d2b-411b-b0d3-d8fafd08bdb4.tmp
 C:\Users\Windows 10\AppData\Local\Temp\MicrosoftEdgeUpdate.log
 C:\Users\Windows 10\AppData\Local\Temp\msedge_installer.log
 C:\Users\Windows 10\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\Microsoft Edge.lnk
+```
 
 <br>
 
 ## Scheduled Tasks
+```
 MicrosoftEdgeUpdateBrowserReplacementTask
+```
 
 <br>
 
 ## DLL Registration
+```
 IEToEdge BHO | C:\Program Files (x86)\Microsoft\Edge\Application\108.0.1462.54\BHO\ie_to_edge_bho.dll
 IEToEdge BHO | C:\Program Files (x86)\Microsoft\Edge\Application\108.0.1462.54\BHO\ie_to_edge_bho_64.dll
 PDF Preview Handler | C:\Program Files (x86)\Microsoft\Edge\Application\108.0.1462.54\PdfPreview\PdfPreviewHandler.dll
+```
