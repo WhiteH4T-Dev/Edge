@@ -1,5 +1,4 @@
-Program Information
-
+## Program Information
 Display name: Microsoft Edge
 Publisher: Microsoft Corporation
 Version: 108.0.1462.54
@@ -13,9 +12,9 @@ Install package: C:\Users\Windows 10\Downloads\MicrosoftEdgeSetup.exe
 Location: C:\Program Files (x86)\Microsoft\Edge\Application
 Installation duration: 61 seconds
 
+<br>
 
-Registry Entries
-
+## Registry Entries
 HKEY_CURRENT_USER\SOFTWARE\Microsoft\Edge|Value|InstallerPinned
 HKEY_CURRENT_USER\SOFTWARE\Microsoft\EdgeUpdate\ClientState\{56EB18F8-B008-4CBD-B6D2-8C97FE7E9062}|Value|dr
 HKEY_CURRENT_USER\SOFTWARE\Microsoft\EdgeUpdate\proxy|Value|source
@@ -322,9 +321,9 @@ HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\EventLog\Application\Edge|Value
 HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\EventLog\Application\Edge|Value|ParameterMessageFile
 HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\EventLog\Application\Edge|Value|TypesSupported
 
+<br>
 
-Files
-
+## Files
 C:\Program Files (x86)\Microsoft\Edge\Application
 C:\Program Files (x86)\Microsoft\Edge\Application\108.0.1462.54
 C:\Program Files (x86)\Microsoft\Edge\Application\108.0.1462.54\BHO
@@ -602,14 +601,14 @@ C:\Users\Windows 10\AppData\Local\Temp\MicrosoftEdgeUpdate.log
 C:\Users\Windows 10\AppData\Local\Temp\msedge_installer.log
 C:\Users\Windows 10\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\Microsoft Edge.lnk
 
+<br>
 
-Scheduled Tasks
-
+## Scheduled Tasks
 MicrosoftEdgeUpdateBrowserReplacementTask
 
+<br>
 
-DLL Registration
-
+## DLL Registration
 IEToEdge BHO | C:\Program Files (x86)\Microsoft\Edge\Application\108.0.1462.54\BHO\ie_to_edge_bho.dll
 IEToEdge BHO | C:\Program Files (x86)\Microsoft\Edge\Application\108.0.1462.54\BHO\ie_to_edge_bho_64.dll
 PDF Preview Handler | C:\Program Files (x86)\Microsoft\Edge\Application\108.0.1462.54\PdfPreview\PdfPreviewHandler.dll
